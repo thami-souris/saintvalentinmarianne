@@ -1,0 +1,43 @@
+﻿html, body {
+ margin: 10px;
+ padding: 10px;
+ }
+body {
+ background-color:pink;
+ color: red;
+ font-family: comic ms;
+ font-size: 170%;
+ }
+h1 {
+ font-size: 80%;
+ color: navy;
+ text-align: center;
+ }
+h2 {
+ font-size: 150%;
+ color: green;
+ padding-left: 15px;
+ }
+p,ul,li,td {
+ color: black;
+ }
+
+
+
+img {
+vertical-align : middle;}
+
+a:link {
+ color: green;
+ text-decoration: underline;
+ }
+a:visited {
+ color: gray;
+ }
+a:hover {
+ color: navy;
+ text-decoration: none;
+}
+a:active, a:focus {
+ color: blue;
+}
